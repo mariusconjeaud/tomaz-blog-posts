@@ -1,7 +1,6 @@
-# Graph Data Science Blog
+# Setup
 
-This repository contains a collection of Jupyter Notebooks that support my Graph Data Science exploration blog posts using Neo4j.
-
-https://bratanic-tomaz.medium.com/
-
-https://tbgraph.wordpress.com/
+Add an .env file with the following variables :
+````
+OPENAI_API_KEY = "your-openai-api-key"
+````
